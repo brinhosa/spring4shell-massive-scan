@@ -10,6 +10,6 @@ Usage:
 
 ```
 chmod +x scan.sh
-./scan.sh wordlist.txt
+./scan.sh urls.txt
 ```
 
